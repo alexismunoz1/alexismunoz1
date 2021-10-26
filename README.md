@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hola 👋, soy Alexis!
 
-<!--
-**alexismunoz1/alexismunoz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contacto :mailbox: 
+<a href="https://www.linkedin.com/in/alexis-muñoz-739b881b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+##
 
-Here are some ideas to get you started:
+### Lenguajes y tecnologías :zap:
+[![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=javascript&language=typescript)
+[![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=javascript)
+[![Typescript](https://img.shields.io/badge/TypeScript--blue.svg?logo=typescript&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=typescript)
+[![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=html) [![CSS3](https://img.shields.io/badge/CSS3--informational.svg?logo=CSS3&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=css) [![Firebase](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/alexismunoz1)
+[![Git](https://img.shields.io/badge/Git--critical.svg?logo=git&logoWidth=20)](https://github.com/alexismunoz1)
+[![Github](https://img.shields.io/badge/Github--333.svg?logo=github&logoWidth=20)](https://github.com/alexismunoz1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+### Proyectos :arrow_down::arrow_down::arrow_down:
