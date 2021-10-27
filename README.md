@@ -1,10 +1,15 @@
-## Hola 👋, soy Alexis!
+## Hi, I'm Alexis! 👋
 
-### Contacto :mailbox: 
+### Contact :mailbox: 
 <a href="https://www.linkedin.com/in/alexis-muñoz-739b881b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ##
 
-### Lenguajes y tecnologías :zap:
+### Portfolio :star:
+https://alexismunoz1.github.io/portfolio/
+
+##
+
+### Languages and technologies :zap:
 [![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=javascript&language=typescript)
 [![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=javascript)
 [![Typescript](https://img.shields.io/badge/TypeScript--blue.svg?logo=typescript&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=typescript)
@@ -13,4 +18,4 @@
 [![Github](https://img.shields.io/badge/Github--333.svg?logo=github&logoWidth=20)](https://github.com/alexismunoz1)
 
 ##
-### Proyectos :arrow_down::arrow_down::arrow_down:
+### Proyects :arrow_down::arrow_down::arrow_down:
