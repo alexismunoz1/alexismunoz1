@@ -1,9 +1,7 @@
 ### Contact :mailbox: 
 <a href="https://www.linkedin.com/in/alexis-muñoz-739b881b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-##
 
-### Portfolio :star:
-https://alexismunoz1.github.io/portfolio/
+<a href="https://alexismunoz1.github.io/portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/⭐ Portfolio-%230077B5.svg?&style=for-the-badge&logo=Portfolio" /></a>
 
 ##
 
