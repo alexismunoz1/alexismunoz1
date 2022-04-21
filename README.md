@@ -14,14 +14,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="51px"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="60px"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png" width="63px">
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="55px">
 
-### Deploy
-<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="58px"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png" width="63px">
-<img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="52px">
-
-### Entorno
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png" width="70px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="52px">
-
-
 ## Proyects :arrow_down::arrow_down::arrow_down:
 
 
