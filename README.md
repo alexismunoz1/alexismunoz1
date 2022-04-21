@@ -13,7 +13,3 @@
 ### Back
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="51px"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="60px"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png" width="63px">
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="55px">
-
-## Proyects :arrow_down::arrow_down::arrow_down:
-
-
