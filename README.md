@@ -5,8 +5,8 @@
 
 ### Front
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png" width="60px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" width="52px">
-<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" width="55px">
 <img src="https://bestofjs.org/logos/recoil.svg" height="51px">
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" width="55px">
 <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" width="50px">
 
 ### Back
