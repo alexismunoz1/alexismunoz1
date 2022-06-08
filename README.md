@@ -1,5 +1,5 @@
 ## Contacto :mailbox:
-<a href="https://alexismunoz1.github.io/portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/⭐ Portfolio-%230077B5.svg?&style=for-the-badge&logo=Portfolio" height="35px"/></a> <a href="https://www.linkedin.com/in/alexis-munoz-fullstack-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px"/></a>
+<a href="https://www.linkedin.com/in/alexis-munoz-fullstack-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px"/></a>
 
 ## Tecnologías :zap:
 
